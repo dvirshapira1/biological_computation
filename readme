@@ -1,0 +1,8 @@
+How to run the codes?
+
+PART A:
+enter the value of n. The result will be in a file inside the folder of the code.
+
+PART B:
+enter the value of n, enter the number of edges, enter the edges in the format: (number of start node) (space) (number of end node).
+the results will be printed on the screen.
